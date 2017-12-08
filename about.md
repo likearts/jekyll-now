@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello!! My Name is Heawon P
+Im Web Full Static Deveolper
+
+my first git blog!!
+anybody allys wellcome ^_^
+
+have a good time!!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+.. is 
+...
+.... 
+um....
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[likearts@gmail.com](mailto:likearts@gmail.com)
